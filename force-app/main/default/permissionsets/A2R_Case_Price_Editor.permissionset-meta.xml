@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>A2R-13 : accès au prix des Cases pour le scénario de démonstration.</description>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Case.Price__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>A2R - Modification du prix Case</label>
+</PermissionSet>
