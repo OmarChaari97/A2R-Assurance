@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Montant hors taxes du dossier, utilisé comme base des calculs financiers.</description>
+    <fullName>Price__c</fullName>
+    <label>Prix HT</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>3</scale>
+    <type>Currency</type>
+</CustomField>
