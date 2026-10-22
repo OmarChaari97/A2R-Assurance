@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Indique si le compte est associé à un usage mobile.</description>
+    <fullName>Is_Mobile__c</fullName>
+    <label>Is mobile</label>
+    <type>Checkbox</type>
+    <defaultValue>false</defaultValue>
+</CustomField>
